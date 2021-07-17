@@ -1,4 +1,4 @@
-- late blooming boomer learning python and c++
+player one chooses word, player two guessed letter by letter. 7 guesses til game over
 
 <!---
 Scr1mshaw/Scr1mshaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
