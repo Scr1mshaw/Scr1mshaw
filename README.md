@@ -1,4 +1,4 @@
-- late blooming boomer learning python and c++
+
 
 <!---
 Scr1mshaw/Scr1mshaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
